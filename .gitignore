@@ -1,0 +1,43 @@
+# Ignore a pasta Library, que é gerada pelo Unity
+[Ll]ibrary/
+
+# Ignore a pasta Temp, que é gerada pelo Unity
+[Tt]emp/
+
+# Ignore a pasta Obj, que é gerada pelo Unity
+[Oo]bj/
+
+# Ignore a pasta Build, que é gerada pelo Unity
+[Bb]uild/
+
+# Ignore a pasta Builds, que é gerada pelo Unity
+[Bb]uilds/
+
+# Ignore a pasta Logs, que é gerada pelo Unity
+[Ll]ogs/
+
+# Ignore a pasta UserSettings, que é gerada pelo Unity
+[Uu]ser[Ss]ettings/
+
+# Ignore arquivos de configuração de sistema
+.DS_Store
+*.userprefs
+*.sln
+*.csproj
+*.pidb
+*.booproj
+
+# Ignore a pasta de cache
+[Mm]emoryCaptures/
+
+# Ignore arquivos de crash e logs do editor
+*.stacktrace
+*.log
+
+# Ignore os arquivos de versão de artefatos
+*.pidb.meta
+*.sln.meta
+*.csproj.meta
+
+# Ignore arquivos de configuração do Visual Studio
+.vscode/
